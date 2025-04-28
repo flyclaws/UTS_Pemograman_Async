@@ -1,0 +1,299 @@
+[2025-04-28 20:52:48] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:52:48] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:52:49] https://google.com - Status: 200
+[2025-04-28 20:52:49] https://example.com - Status: 200
+[2025-04-28 20:52:49] https://github.com - Status: 200
+[2025-04-28 20:52:59] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:52:59] https://github.com - Status: 200
+[2025-04-28 20:52:59] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:52:59] https://example.com - Status: 200
+[2025-04-28 20:53:00] https://google.com - Status: 200
+[2025-04-28 20:53:10] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:53:10] https://example.com - Status: 200
+[2025-04-28 20:53:10] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:53:11] https://google.com - Status: 200
+[2025-04-28 20:53:11] https://github.com - Status: 200
+[2025-04-28 20:53:21] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:53:21] https://github.com - Status: 200
+[2025-04-28 20:53:21] https://example.com - Status: 200
+[2025-04-28 20:53:21] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:53:22] https://google.com - Status: 200
+[2025-04-28 20:53:32] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:53:32] https://example.com - Status: 200
+[2025-04-28 20:53:32] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:53:32] https://google.com - Status: 200
+[2025-04-28 20:53:32] https://github.com - Status: 200
+[2025-04-28 20:53:42] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:53:43] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:53:43] https://example.com - Status: 200
+[2025-04-28 20:53:43] https://github.com - Status: 200
+[2025-04-28 20:53:44] https://google.com - Status: 200
+[2025-04-28 20:53:54] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:53:54] https://github.com - Status: 200
+[2025-04-28 20:53:54] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:53:54] https://google.com - Status: 200
+[2025-04-28 20:53:55] https://example.com - Status: 200
+[2025-04-28 20:54:05] https://github.com - Status: 200
+[2025-04-28 20:54:05] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:54:05] https://example.com - Status: 200
+[2025-04-28 20:54:05] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:54:05] https://google.com - Status: 200
+[2025-04-28 20:54:15] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:54:16] https://example.com - Status: 200
+[2025-04-28 20:54:16] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:54:17] https://github.com - Status: 200
+[2025-04-28 20:54:17] https://google.com - Status: 200
+[2025-04-28 20:54:27] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:54:27] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:54:27] https://example.com - Status: 200
+[2025-04-28 20:54:27] https://github.com - Status: 200
+[2025-04-28 20:54:27] https://google.com - Status: 200
+[2025-04-28 20:54:38] https://github.com - Status: 200
+[2025-04-28 20:54:38] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:54:38] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:54:38] https://example.com - Status: 200
+[2025-04-28 20:54:38] https://google.com - Status: 200
+[2025-04-28 20:54:48] https://github.com - Status: 200
+[2025-04-28 20:54:48] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:54:48] https://example.com - Status: 200
+[2025-04-28 20:54:48] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:54:48] https://google.com - Status: 200
+[2025-04-28 20:54:59] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:54:59] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:54:59] https://example.com - Status: 200
+[2025-04-28 20:55:00] https://google.com - Status: 200
+[2025-04-28 20:55:01] https://github.com - Status: 200
+[2025-04-28 20:55:11] https://github.com - Status: 200
+[2025-04-28 20:55:11] https://example.com - Status: 200
+[2025-04-28 20:55:11] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:55:12] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:55:12] https://google.com - Status: 200
+[2025-04-28 20:55:22] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:55:22] https://github.com - Status: 200
+[2025-04-28 20:55:22] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:55:22] https://example.com - Status: 200
+[2025-04-28 20:55:23] https://google.com - Status: 200
+[2025-04-28 20:55:33] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:55:33] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:55:33] https://github.com - Status: 200
+[2025-04-28 20:55:33] https://example.com - Status: 200
+[2025-04-28 20:55:33] https://google.com - Status: 200
+[2025-04-28 20:55:43] https://example.com - Status: 200
+[2025-04-28 20:55:43] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:55:43] https://github.com - Status: 200
+[2025-04-28 20:55:44] https://google.com - Status: 200
+[2025-04-28 20:55:44] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:55:54] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:55:54] https://github.com - Status: 200
+[2025-04-28 20:55:55] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:55:55] https://google.com - Status: 200
+[2025-04-28 20:55:55] https://example.com - Status: 200
+[2025-04-28 20:56:05] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:56:05] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:56:05] https://github.com - Status: 200
+[2025-04-28 20:56:05] https://example.com - Status: 200
+[2025-04-28 20:56:06] https://google.com - Status: 200
+[2025-04-28 20:56:16] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:56:16] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:56:16] https://github.com - Status: 200
+[2025-04-28 20:56:16] https://example.com - Status: 200
+[2025-04-28 20:56:16] https://google.com - Status: 200
+[2025-04-28 20:56:27] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:56:27] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:56:27] https://google.com - Status: 200
+[2025-04-28 20:56:27] https://example.com - Status: 200
+[2025-04-28 20:56:30] https://github.com - Status: 200
+[2025-04-28 20:56:40] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:56:40] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:56:40] https://github.com - Status: 200
+[2025-04-28 20:56:40] https://example.com - Status: 200
+[2025-04-28 20:56:40] https://google.com - Status: 200
+[2025-04-28 20:56:50] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:56:51] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:56:51] https://example.com - Status: 200
+[2025-04-28 20:56:51] https://github.com - Status: 200
+[2025-04-28 20:56:51] https://google.com - Status: 200
+[2025-04-28 20:57:01] https://github.com - Status: 200
+[2025-04-28 20:57:01] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:57:01] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:57:01] https://example.com - Status: 200
+[2025-04-28 20:57:01] https://google.com - Status: 200
+[2025-04-28 20:57:11] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:57:11] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:57:12] https://github.com - Status: 200
+[2025-04-28 20:57:12] https://example.com - Status: 200
+[2025-04-28 20:57:12] https://google.com - Status: 200
+[2025-04-28 20:57:22] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:57:22] https://github.com - Status: 200
+[2025-04-28 20:57:22] https://example.com - Status: 200
+[2025-04-28 20:57:22] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:57:23] https://google.com - Status: 200
+[2025-04-28 20:57:33] https://github.com - Status: 200
+[2025-04-28 20:57:33] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:57:33] https://example.com - Status: 200
+[2025-04-28 20:57:33] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:57:33] https://google.com - Status: 200
+[2025-04-28 20:57:43] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:57:43] https://github.com - Status: 200
+[2025-04-28 20:57:43] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:57:43] https://example.com - Status: 200
+[2025-04-28 20:57:43] https://google.com - Status: 200
+[2025-04-28 20:57:54] https://github.com - Status: 200
+[2025-04-28 20:57:54] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:57:54] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:57:54] https://example.com - Status: 200
+[2025-04-28 20:57:54] https://google.com - Status: 200
+[2025-04-28 20:58:04] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:58:04] https://github.com - Status: 200
+[2025-04-28 20:58:04] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:58:04] https://example.com - Status: 200
+[2025-04-28 20:58:04] https://google.com - Status: 200
+[2025-04-28 20:58:14] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:58:14] https://github.com - Status: 200
+[2025-04-28 20:58:14] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:58:14] https://example.com - Status: 200
+[2025-04-28 20:58:14] https://google.com - Status: 200
+[2025-04-28 20:58:24] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:58:25] https://example.com - Status: 200
+[2025-04-28 20:58:25] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:58:25] https://google.com - Status: 200
+[2025-04-28 20:58:25] https://github.com - Status: 200
+[2025-04-28 20:58:35] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:58:35] https://github.com - Status: 200
+[2025-04-28 20:58:35] https://example.com - Status: 200
+[2025-04-28 20:58:35] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:58:35] https://google.com - Status: 200
+[2025-04-28 20:58:46] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:58:46] https://github.com - Status: 200
+[2025-04-28 20:58:46] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:58:46] https://example.com - Status: 200
+[2025-04-28 20:58:46] https://google.com - Status: 200
+[2025-04-28 20:58:56] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:58:56] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:58:56] https://github.com - Status: 200
+[2025-04-28 20:58:56] https://example.com - Status: 200
+[2025-04-28 20:58:57] https://google.com - Status: 200
+[2025-04-28 20:59:07] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:59:07] https://github.com - Status: 200
+[2025-04-28 20:59:07] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:59:07] https://example.com - Status: 200
+[2025-04-28 20:59:08] https://google.com - Status: 200
+[2025-04-28 20:59:18] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:59:18] https://github.com - Status: 200
+[2025-04-28 20:59:18] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:59:18] https://example.com - Status: 200
+[2025-04-28 20:59:19] https://google.com - Status: 200
+[2025-04-28 20:59:29] https://github.com - Status: 200
+[2025-04-28 20:59:29] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:59:29] https://example.com - Status: 200
+[2025-04-28 20:59:29] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:59:30] https://google.com - Status: 200
+[2025-04-28 20:59:40] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:59:40] https://example.com - Status: 200
+[2025-04-28 20:59:40] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:59:40] https://github.com - Status: 200
+[2025-04-28 20:59:40] https://google.com - Status: 200
+[2025-04-28 20:59:50] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 20:59:50] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 20:59:50] https://example.com - Status: 200
+[2025-04-28 20:59:52] https://github.com - Status: 200
+[2025-04-28 20:59:52] https://google.com - Status: 200
+[2025-04-28 21:00:02] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:00:02] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:02] https://example.com - Status: 200
+[2025-04-28 21:00:03] https://google.com - Status: 200
+[2025-04-28 21:00:04] https://github.com - Status: 200
+[2025-04-28 21:00:14] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:00:14] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:14] https://github.com - Status: 200
+[2025-04-28 21:00:14] https://example.com - Status: 200
+[2025-04-28 21:00:14] https://google.com - Status: 200
+[2025-04-28 21:00:24] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:00:24] https://github.com - Status: 200
+[2025-04-28 21:00:24] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:24] https://example.com - Status: 200
+[2025-04-28 21:00:25] https://google.com - Status: 200
+[2025-04-28 21:00:35] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:00:35] https://github.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:35] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:36] https://example.com - Status: 200
+[2025-04-28 21:00:36] https://google.com - Status: 200
+[2025-04-28 21:00:46] https://github.com - Status: 200
+[2025-04-28 21:00:46] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:00:46] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:46] https://example.com - Status: 200
+[2025-04-28 21:00:46] https://google.com - Status: 200
+[2025-04-28 21:00:56] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:00:57] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:00:57] https://example.com - Status: 200
+[2025-04-28 21:00:57] https://github.com - Status: 200
+[2025-04-28 21:00:57] https://google.com - Status: 200
+[2025-04-28 21:01:07] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:01:07] https://github.com - Status: 200
+[2025-04-28 21:01:07] https://example.com - Status: 200
+[2025-04-28 21:01:07] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:01:09] https://google.com - Status: 200
+[2025-04-28 21:01:19] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:01:19] https://github.com - Status: 200
+[2025-04-28 21:01:19] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:01:19] https://example.com - Status: 200
+[2025-04-28 21:01:19] https://google.com - Status: 200
+[2025-04-28 21:01:29] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:01:29] https://example.com - Status: 200
+[2025-04-28 21:01:29] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:01:29] https://github.com - Status: 200
+[2025-04-28 21:01:30] https://google.com - Status: 200
+[2025-04-28 21:01:40] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:01:40] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:01:40] https://google.com - Status: 200
+[2025-04-28 21:01:41] https://example.com - Status: 200
+[2025-04-28 21:02:40] https://github.com - Status: 200
+[2025-04-28 21:02:50] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:02:50] https://github.com - Status: 200
+[2025-04-28 21:02:50] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:02:50] https://google.com - Status: 200
+[2025-04-28 21:02:50] https://example.com - Status: 200
+[2025-04-28 21:03:01] https://github.com - Status: 200
+[2025-04-28 21:03:01] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:03:01] https://example.com - Status: 200
+[2025-04-28 21:03:01] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:03:02] https://google.com - Status: 200
+[2025-04-28 21:03:12] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:03:12] https://github.com - Status: 200
+[2025-04-28 21:03:12] https://example.com - Status: 200
+[2025-04-28 21:03:12] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:03:12] https://google.com - Status: 200
+[2025-04-28 21:03:23] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:03:23] https://example.com - Status: 200
+[2025-04-28 21:03:23] https://github.com - Status: 200
+[2025-04-28 21:03:23] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:03:24] https://google.com - Status: 200
+[2025-04-28 21:03:34] https://github.com - Status: 200
+[2025-04-28 21:03:34] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:03:34] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:03:34] https://example.com - Status: 200
+[2025-04-28 21:03:34] https://google.com - Status: 200
+[2025-04-28 21:03:44] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:03:44] https://github.com - Status: 200
+[2025-04-28 21:03:44] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:03:44] https://example.com - Status: 200
+[2025-04-28 21:03:45] https://google.com - Status: 200
+[2025-04-28 21:03:55] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:03:55] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:03:55] https://example.com - Status: 200
+[2025-04-28 21:03:55] https://github.com - Status: 200
+[2025-04-28 21:03:55] https://google.com - Status: 200
+[2025-04-28 21:04:05] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:04:05] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:04:06] https://example.com - Status: 200
+[2025-04-28 21:04:07] https://google.com - Status: 200
+[2025-04-28 21:04:07] https://github.com - Status: 200
+[2025-04-28 21:04:17] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:04:17] https://openai.com - Status: 403      SITE DOWN!
+[2025-04-28 21:04:17] https://example.com - Status: 200
+[2025-04-28 21:04:18] https://github.com - Status: 200
+[2025-04-28 21:04:18] https://google.com - Status: 200
+[2025-04-28 21:04:28] https://somewebsite.com - ERROR: Cannot connect to host somewebsite.com:443 ssl:default [getaddrinfo failed]      SITE DOWN!
+[2025-04-28 21:04:29] https://example.com - Status: 200
+[2025-04-28 21:04:29] https://google.com - Status: 200
+[2025-04-28 21:04:29] https://openai.com - Status: 403      SITE DOWN!
